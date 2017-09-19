@@ -1,0 +1,1 @@
+Request method detected<?=$_SERVER['REQUEST_METHOD']?>
