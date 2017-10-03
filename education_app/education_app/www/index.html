@@ -92,6 +92,8 @@
     <script>
         var app = angular.module('myApp', []);
         app.controller('customersCtrl', function($scope, $http) {
+
+            // You might need to change localhost to be your laptop/desktop IP address to make this work
             $http.get("http://localhost/education_api/university.php").then(function (response) {
                 $scope.myData = response.data;
                 console.log(response.data);

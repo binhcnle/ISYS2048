@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09dfa1d7-8afc-427a-9049-b7b135510b25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/education_app/education_app/www/css/lib/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/education_app/education_app/www/js/lib/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/education_app/education_app/www/js/lib/angular.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/education_app/education_app/www/js/lib/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/education_app/education_app/www/js/lib/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/education_app/education_app/www/js/lib/popper.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/education_app/Education_App_How_to_set_up.docx" afterPath="$PROJECT_DIR$/education_app/Education_App_How_to_set_up.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/education_app/education_app/www/index.html" afterPath="$PROJECT_DIR$/education_app/education_app/www/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/education_app/education_app/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="85" column="10" lean-forward="false" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+            <state relative-caret-position="309">
+              <caret line="95" column="104" lean-forward="false" selection-start-line="95" selection-start-column="104" selection-end-line="95" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -380,12 +377,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506995650405</updated>
-      <workItem from="1506995653727" duration="3006000" />
+      <workItem from="1506995653727" duration="3209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3006000" />
+    <option name="totallyTimeSpent" value="3209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1224" height="777" extended-state="6" />
@@ -538,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/education_app/education_app/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="10" lean-forward="false" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+        <state relative-caret-position="309">
+          <caret line="95" column="104" lean-forward="false" selection-start-line="95" selection-start-column="104" selection-end-line="95" selection-end-column="104" />
           <folding />
         </state>
       </provider>
